@@ -1,0 +1,10 @@
+total 32
+-rw-r--r--  1 munezeromarvella  staff   20 Jun  2 07:14 README.md
+drwxr-xr-x  2 munezeromarvella  staff   64 May 26 09:28 assignment_dir
+-rw-r-----  1 munezeromarvella  staff    0 Jun  2 07:14 group_notes.txt
+-rwxr-xr-x  1 munezeromarvella  staff  238 May 26 10:01 myscript.sh
+-rw-r--r--  1 munezeromarvella  staff    0 Jun  2 07:16 permissions_after_symbolic.txt
+-rw-r--r--  1 munezeromarvella  staff  581 Jun  2 07:14 permissions_before.txt
+-rw-------  1 munezeromarvella  staff    0 Jun  2 07:14 private_notes.txt
+-rw-r--r--  1 munezeromarvella  staff    0 Jun  2 07:14 public_notes.txt
+-rw-r--r--  1 munezeromarvella  staff   93 May 26 10:44 scripting.sh
